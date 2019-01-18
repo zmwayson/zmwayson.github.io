@@ -1,0 +1,76 @@
+body{
+    background-image: url(Zach.jpg);
+    background-color: palegoldenrod;
+    border-color: purple;
+    border-style: double dashed groove ridge;
+    border-width: 5px;
+    border-radius: 2px;
+    box-shadow: 1px;
+
+}
+
+h1{
+    color: red;
+    font-size: 25px;
+}
+
+#link {
+    color: purple;
+}
+
+#one {
+    font-size: 25px;
+}
+
+#mars {
+    width: 200px;
+}
+
+#rover{
+    width: 250px;
+}
+
+.emphasize{
+    font-size: 25px;
+    color: magenta;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: oblique italic;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 3px 3px black; 
+}
+
+.normal{
+    color: goldenrod;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: 2px 2px 1px grey;
+}
+
+.list{
+    color: salmon;
+    font-size: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    font-style: oblique;
+    text-align: justify;
+    text-decoration: overline;
+    text-shadow: 10x, 1x, 3x purple;
+}
+
+.question{
+    color: forestgreen;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    text-decoration: line-through;
+    text-shadow: 2x 3x 5x peru;
+}
+
