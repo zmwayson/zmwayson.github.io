@@ -1,0 +1,62 @@
+.display-4{
+    font-family: 'Roboto', sans-serif;
+    color: green;
+    font-size: 53px;    
+}
+
+.btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 15px;
+}
+
+.jumbotron{
+    background-image: url("Authenticity_1.jpg");
+    padding: 20px 20px 150px 20px; 
+}
+
+.lead{
+    background-color: whitesmoke;
+    width: 425px;
+    padding: 5px 5px 5px 10px;
+}
+
+.paragraph{
+    background-color: whitesmoke;
+    width: 300px;
+    padding: 5px 5px 5px 10px;
+}
+
+.container-center{
+    text-align: center;
+}
+
+a.links{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    size: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+h5.h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+}
+
+h6.h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    padding: 10px 10px 10px 10px;
+    font-size: 30px;
+}
+
+p5.p5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px 25px 25px 25px;
+}
+
+p6.p6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px 25px 25px 25px;
+    font-size: 12px;
+}
